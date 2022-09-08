@@ -7,6 +7,7 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 2. Run some analysis
 3. Present results in a final pdf generated using LaTeX
 
+## Changes for practice ##
 ## Dependencies
 - R 
 - R packages: `install.packages("stargazer")`
